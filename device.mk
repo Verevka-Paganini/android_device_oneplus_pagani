@@ -32,13 +32,7 @@ PRODUCT_PACKAGES += \
     OplusLtpo
 
 # Fingerprint
-$(call soong_config_set_bool,qtidisplay,oplus_udfps,true)
-
-# Fingerprint
 TARGET_HAS_UDFPS := true
-
-# LiveDisplay
-$(call soong_config_set_bool,OPLUS_LINEAGE_LIVEDISPLAY_HAL,ENABLE_AF,true)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
