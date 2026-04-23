@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="build_maintainer_title" translatable="false">Alps Yogurt</string>
+    <string name="build_maintainer_summary" translatable="false">Unofficial</string>
+</resources>
